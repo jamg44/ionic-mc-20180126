@@ -1,0 +1,132 @@
+{
+  "movies": [
+    {
+      "rating": 6.2,
+      "video_url": "http://movietrailers.apple.com/movies/fox/swepisodeone3d/swepisode1-tlr1_720p.mov",
+      "title": "Star Wars: Episode 1 - The Phantom Menace ",
+      "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+      "poster_url": "https://image.tmdb.org/t/p/w640/wnLXOLmngo0IBLTbGF7DmBTzUrM.jpg",
+      "tagline": "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
+      "date": "1999-05-19",
+      "id": 1,
+      "categories": ["Adventure", "Action", "Science Fiction"]
+    },
+    {
+      "rating": 7.5,
+      "video_url": "http://movietrailers.apple.com/movies/weinstein/djangounchained/django-tsr1_720p.mov",
+      "title": "Django Unchained ",
+      "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "poster_url": "https://image.tmdb.org/t/p/w396/5WJnxuw41sddupf8cwOxYftuvJG.jpg",
+      "tagline": "Life, liberty and the pursuit of vengeance.",
+      "date": "2012-12-25",
+      "id": 2,
+      "categories": ["Drama", "Western"]
+    },
+    {
+      "rating": 6.1,
+      "video_url": "http://movietrailers.apple.com/movies/paramount/transformers3/transformers3-tlr2_h720p.mov",
+      "title": "Transformers: Dark of the Moon",
+      "overview": "Sam Witwicky takes his first tenuous steps into adulthood while remaining a reluctant human ally of Autobot-leader Optimus Prime. The film centers around the space race between the USSR and the USA, suggesting there was a hidden Transformers role in it all that remains one of the planet's most dangerous secrets.",
+      "poster_url": "https://image.tmdb.org/t/p/w640/ddnXdEsaeqpxTthpmTq5XtjdNjB.jpg",
+      "tagline": "The invasion we always feared. An enemy we never expected.",
+      "date": "2011-06-28",
+      "id": 3,
+      "categories": ["Action", "Science Fiction", "Adventure"]
+    },
+    {
+      "rating": 7.3,
+      "video_url": "http://movietrailers.apple.com/movies/marvel/theavengers/avengers-lokiimprisoned_720p.mov",
+      "title": "The Avengers",
+      "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "poster_url": "https://image.tmdb.org/t/p/w396/cezWGskPY5x7GaglTTRN4Fugfb8.jpg",
+      "tagline": "Some assembly required.",
+      "date": "2011-05-04",
+      "id": 4,
+      "categories": ["Science Fiction","Action","Adventure"]
+    },
+    {
+      "rating": 7.7,
+      "video_url": "http://movietrailers.apple.com/movies/marvel/captainamericathewintersoldier/captainamerica-blastfromthepast_720p.mov",
+      "title": "Captain America: The Winter Soldier",
+      "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy\u2014the Winter Soldier.",
+      "poster_url": "https://image.tmdb.org/t/p/w640/frDK0kDcpIiRNlje1BlYqgesIJD.jpg",
+      "tagline": "In heroes we trust.",
+      "date": "2014-04-04",
+      "id": 5,
+      "categories": ["Action","Adventure","Science Fiction"]
+    }
+  ],
+  "people": [
+    {
+      "name": "Chuck Norris",
+      "photo_url": "https://image.tmdb.org/t/p/w185/v37EfVIoKV4ooy1KE5z8BxsT6wU.jpg",
+      "bio": "This the bio of Chuck",
+      "birthdate": "1940-03-10",
+      "birthplace": "Ryan, Oklahoma",
+      "id": 1
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "photo_url": "https://image.tmdb.org/t/p/w185/dulCsiwzZihFGmjtGA6p0yDWEN1.jpg",
+      "bio": "This the bio of Arnold",
+      "birthdate": "1947-07-30",
+      "birthplace": "Thal, Styria, Austria",
+      "id": 2
+    },
+    {
+      "name": "Scarlett Johansson",
+      "photo_url": "http://image.tmdb.org/t/p/w185/sVXLiqQWFbfOudU4bzP2Z0BeHGU.jpg",
+      "bio": "Scarlett Johansson, born November 22, 1984, is an American actress, model and singer. She made her film debut in North (1994) and was later nominated for the Independent Spirit Award for Best Female Lead for her performance in Manny & Lo (1996), garnering further acclaim and prominence with roles in The Horse Whisperer (1998) and Ghost World (2001). She shifted to adult roles with her performances in Girl with a Pearl Earring (2003) and Sofia Coppola's Lost in Translation (2003), for which she won a BAFTA award for Best Actress in a Leading Role; both films earned her...",
+      "birthdate": "1984-11-22",
+      "birthplace": "New York City - New York - USA",
+      "id": 3
+    }
+  ],
+  "series": [
+    {
+      "rating": 7.6,
+      "title": "The Walking Dead",
+      "overview": "\"The Walking Dead\" est\u00e1 ambientada en un futuro apocal\u00edptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutaci\u00f3n en zombies de la mayor parte de los habitantes del planeta. La trama sigue a un grupo de humanos supervivientes, comandados por el polic\u00eda Rick Grimes encargado de buscar un lugar seguro en el que poder vivir. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, as\u00ed como las relaciones personales que se establecen entre ellos, en ocasiones tambi\u00e9n una amenaza para su supervivencia.",
+      "poster_url": "https://image.tmdb.org/t/p/w185/vxuoMW6YBt6UsxvMfRNwRl9LtWS.jpg",
+      "date": "2016-03-10T23:00:00.000Z",
+      "id": 1,
+      "categories": ["Terror","Action"]
+    },
+    {
+      "rating": 7.5,
+      "title": "Doctor Who",
+      "overview": "Doctor Who es una serie de televisi\u00f3n brit\u00e1nica de ciencia ficci\u00f3n producida por la BBC. El programa muestra las aventuras de un Se\u00f1or del Tiempo conocido como \"El Doctor\", que explora el universo en su TARDIS, una nave espacial con conciencia propia capaz de viajar a trav\u00e9s del tiempo y el espacio. Con la ayuda de distintos acompa\u00f1antes, el Doctor se enfrenta a una variedad de enemigos mientras salva civilizaciones, visita tanto el pasado como el futuro, ayuda a gente com\u00fan y corrige injusticias.",
+      "poster_url": "https://image.tmdb.org/t/p/w185/igDhbYQTvact1SbNDbzoeiFBGda.jpg",
+      "date": "2005-03-25T23:00:00.000Z",
+      "id": 2,
+      "categories": ["Action"]
+    },
+    {
+      "rating": 7.3,
+      "title": "The Big Bang Theory",
+      "overview": "The Big Bang Theory se centra en la vida de cinco personajes que residen en Pasadena, California: los compa\u00f1eros de piso Leonard Hofstadter y Sheldon Cooper; su vecina Penny, una guapa camarera que aspira a triunfar como actriz; y los amigos y compa\u00f1eros de trabajo de Leonard y Sheldon (igual de friquis y socialmente inadaptados que ellos), el ingeniero mec\u00e1nico Howard Wolowitz y el astrof\u00edsico Raj Koothrappali. El grado de \"friquismo\" y el intelecto de los cuatro chicos choca de forma c\u00f3mica con las habilidades sociales y el sentido com\u00fan de Penny.",
+      "poster_url": "https://image.tmdb.org/t/p/w185/wQoosZYg9FqPrmI4zeCLRdEbqAB.jpg",
+      "date": "2007-09-23T22:00:00.000Z",
+      "id": 3,
+      "categories": ["Action"]
+    },
+    {
+      "rating": 8.5,
+      "title": "Juego de Tronos",
+      "overview": "Juego de Tronos es una serie de televisi\u00f3n de drama y fantas\u00eda creada para la HBO por David Benioff y D. B. Weiss. Es una adaptaci\u00f3n de la saga de novelas de fantas\u00eda Canci\u00f3n de Hielo y Fuego de George R. R. Martin. La primera de las novelas es la que da nombre a la serie.\n\nLa serie, ambientada en los continentes ficticios de Westeros y Essos al final de un verano de una decada de duraci\u00f3n, entrelaza varias l\u00edneas argumentales. La primera sigue a los miembros de varias casas nobles inmersos en una guerra civil por conseguir el Trono de Hierro de los Siete Reinos. La segunda trata sobre la creciente amenaza de un inminente invierno y sobre las temibles criaturas del norte. La tercera relata los esfuerzos por reclamar el trono de los \u00faltimos miembros exiliados de una dinast\u00eda destronada. A pesar de sus personajes moralmente ambiguos, la serie profundiza en los problemas de la jerarqu\u00eda social, religi\u00f3n, lealtad, corrupci\u00f3n, sexo, guerra civil, crimen y castigo.",
+      "poster_url": "https://image.tmdb.org/t/p/w185/36tqIH6BPUg7KufHNJEwyeVIpO.jpg",
+      "date": "2011-04-16T22:00:00.000Z",
+      "id": 4,
+      "categories": ["Drama","Action"]
+    },
+    {
+      "rating": 8.2,
+      "title": "Los Soprano",
+      "overview": "Los Soprano (The Sopranos) es una serie de televisi\u00f3n estadounidense creada y producida por David Chase. La serie se estren\u00f3 en Estados Unidos el 10 de enero de 1999 por el canal de televisi\u00f3n por cable HBO, que la emiti\u00f3 ininterrumpidamente hasta su desenlace, el 10 de junio de 2007. La trama de la serie gira en torno al mafioso de Nueva Jersey Tony Soprano (James Gandolfini) y las dificultades que enfrenta tanto en su hogar como en la organizaci\u00f3n criminal que dirige. A su vez, la serie tambi\u00e9n se centra en la historia de los personajes cercanos a Tony, especialmente su esposa Carmela (Edie Falco) y su sobrino y protegido Christopher Moltisanti (Michael Imperioli).",
+      "poster_url": "https://image.tmdb.org/t/p/w185/kMWE7qdFvF1zILTjak0J0saiZae.jpg",
+      "date": "1999-01-09T23:00:00.000Z",
+      "id": 5,
+      "categories": ["Action","Drama"]
+    }
+  ]
+}
